@@ -27,7 +27,7 @@
   padding: 20px 0px;
   border-radius: 5px;
 }
-#login-form a[href="#"] {
+#login-form a {
   text-align: center;
   text-decoration: none;
   color: inherit;
