@@ -9,4 +9,8 @@
 }
 .more-suggestions__title {
   margin-bottom: 30px;
+  font-weight: 500;
+}
+.more-suggestions__icon-text {
+  color: var(--grey);
 }
